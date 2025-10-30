@@ -1,0 +1,8 @@
+[2025-10-29 19:48:01] [Server] Listening on 127.0.0.1:5050
+[2025-10-29 19:48:18] [Server] Connected to ('127.0.0.1', 51407)
+[2025-10-29 19:48:18] [Server] Registered DEVICE=Sensor01 TYPE=temperature
+[2025-10-29 19:48:37] [Server] Sent to Sensor01: 'SET_INTERVAL 3'
+[2025-10-29 19:48:37] [Server] From Sensor01: ACK Command Executed
+[2025-10-29 19:48:40] [Server] Sent to Sensor01: 'ACTIVATE_ALARM'
+[2025-10-29 19:48:40] [Server] From Sensor01: ACK Command Executed
+[2025-10-29 19:53:18] [Server] Shutting down on user request.

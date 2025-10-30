@@ -1,0 +1,12 @@
+[2025-10-29 19:55:51] [UDP-Server] Listening on 127.0.0.1:6060
+[2025-10-29 19:56:07] [UDP-Server] RX from Sensor01 @ ('127.0.0.1', 54941): ts=2025-10-29 19:56:07, type=temperature, value=23.5, SEQ=1
+[2025-10-29 19:56:08] [UDP-Server] RX from Sensor01 @ ('127.0.0.1', 54941): ts=2025-10-29 19:56:08, type=temperature, value=23.8, SEQ=2
+[2025-10-29 19:56:09] [UDP-Server] RX from Sensor01 @ ('127.0.0.1', 54941): ts=2025-10-29 19:56:09, type=temperature, value=26.9, SEQ=3
+[2025-10-29 19:56:10] [UDP-Server] RX from Sensor01 @ ('127.0.0.1', 54941): ts=2025-10-29 19:56:10, type=temperature, value=25.5, SEQ=4
+[2025-10-29 19:56:11] [UDP-Server] RX from Sensor01 @ ('127.0.0.1', 54941): ts=2025-10-29 19:56:11, type=temperature, value=24.2, SEQ=5
+[2025-10-29 19:56:12] [UDP-Server] RX from Sensor01 @ ('127.0.0.1', 54941): ts=2025-10-29 19:56:12, type=temperature, value=23.4, SEQ=6
+[2025-10-29 19:56:13] [UDP-Server] RX from Sensor01 @ ('127.0.0.1', 54941): ts=2025-10-29 19:56:13, type=temperature, value=26.5, SEQ=7
+[2025-10-29 19:56:14] [UDP-Server] RX from Sensor01 @ ('127.0.0.1', 54941): ts=2025-10-29 19:56:14, type=temperature, value=23.6, SEQ=8
+[2025-10-29 19:56:15] [UDP-Server] RX from Sensor01 @ ('127.0.0.1', 54941): ts=2025-10-29 19:56:15, type=temperature, value=23.5, SEQ=9
+[2025-10-29 19:56:16] [UDP-Server] RX from Sensor01 @ ('127.0.0.1', 54941): ts=2025-10-29 19:56:16, type=temperature, value=24.5, SEQ=10
+[2025-10-29 19:56:16] [UDP-Server] Sent to Sensor01: STATUS RECEIVED 10/10 PACKETS
